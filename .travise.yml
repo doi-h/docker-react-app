@@ -9,7 +9,7 @@ before_install:
   - echo "start creating an image with dockerfile"
   - docker build -t test/react -f Dockerfile.dev .
 
-scrapt:
+scrapy:
   - docker run -e CI=true test/react npm run test -- --coverage
 
 after_success:
