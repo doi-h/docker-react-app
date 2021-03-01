@@ -15,8 +15,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          앙녕방가와;
-        </a>
+          learn react
+       </a>
       </header>
     </div>
   );
