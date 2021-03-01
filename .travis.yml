@@ -1,5 +1,4 @@
-# 관리자 권한 갖기
-sudo: required
+
 
 #언어(플램폿)선택
 language: generic 
